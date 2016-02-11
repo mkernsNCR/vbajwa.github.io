@@ -1,0 +1,30 @@
+body{
+  background: white;
+  border: 5px solid #777777;
+  width: auto;
+  font-family: "Times New Roman", Times, serif;
+  padding: 2em;
+}
+
+header{
+  display:inline-block;
+}
+.myname{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.contactinfo{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+}
+
+li{
+  display: inline;
+}
+
+.monogram{
+  text-align: center;
+}
