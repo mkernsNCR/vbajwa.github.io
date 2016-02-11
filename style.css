@@ -7,18 +7,17 @@ body{
 }
 
 header{
-  display:inline-block;
+  display: inline-block;
 }
-.myname{
+.my-name{
   text-align: center;
   padding-bottom: 20px;
 }
 
-.contactinfo{
+.contact-info{
   text-align: center;
   margin: 0;
   padding: 0;
-
 }
 
 li{
